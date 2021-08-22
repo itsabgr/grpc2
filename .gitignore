@@ -1,0 +1,8 @@
+*.log
+node_modules/
+*.tsbuildinfo
+.eslintcache
+.idea
+*.iml
+pnpm-lock.yaml
+.npmrc

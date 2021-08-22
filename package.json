@@ -1,0 +1,18 @@
+{
+  "name": "grpc2",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsabgr/grpc2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsabgr/grpc2/issues"
+  },
+  "homepage": "https://github.com/itsabgr/grpc2#readme"
+}
